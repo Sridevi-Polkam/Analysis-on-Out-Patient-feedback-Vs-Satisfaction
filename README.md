@@ -5,10 +5,14 @@ Out-patient satisfaction is a critical quality metric at Lotus Hospitals, data-d
 
 
 ## **🎯 Project Objectives**
-➢ Quantify patient satisfaction using NPS methodology.
-➢ Segment patients into Promoters, Passives, and Detractors.
-➢ To study the conceptual understanding of patient Satisfaction.
-➢ To identify the Critical Factors of Patient Satisfaction at Lotus Hospital.
+
+➢ Quantify patient satisfaction using NPS methodology
+
+➢ Segment patients into Promoters, Passives, and Detractors
+
+➢ To study the conceptual understanding of patient Satisfaction
+
+➢ To identify the Critical Factors of Patient Satisfaction at Lotus Hospital
 
 
 ## **🔍 Insights**
