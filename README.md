@@ -1,25 +1,31 @@
 # **Analysis-on-Out-Patient-feedback-Vs-Satisfaction**
 
 ## **📌 Problem Statement**
-Food Delivery Cost and Profitability Analysis is a comprehensive evaluation aimed at understanding and optimizing the financial dynamics of a food delivery operation. The goal is to identify areas where the service can reduce costs, increase revenue, and implement pricing or commission strategies that enhance profitability.
+Out-patient satisfaction is a critical quality metric at Lotus Hospitals, data-driven way to understand and improve out-patient (OP) satisfaction. Using Net Promoter Score (NPS) feedback and OP footfall records, the goal is to quantify current satisfaction levels, identify the service drivers (e.g., appointment experience, reception, consultation, labs, radiology, facilities, parking/security) that most influence overall satisfaction, and translate those insights into actionable recommendations for operations.
+
 
 ## **🎯 Project Objectives**
-1. Cost Analysis: Identify major cost components, including direct and indirect costs.
-2. Profitability Evaluation: Assess individual and overall profitability by examining commission fees vs. total costs.
-3. Strategic Recommendations: Propose strategies to reduce costs and optimize commission/discount rates for improved profitability.
-4. Impact Simulation: Forecast the financial impact of recommended strategies and how they could transform losses into profits.
+➢ Quantify patient satisfaction using NPS methodology.
+➢ Segment patients into Promoters, Passives, and Detractors.
+➢ To study the conceptual understanding of patient Satisfaction.
+➢ To identify the Critical Factors of Patient Satisfaction at Lotus Hospital.
 
-## **🔍 Key Insights**
-Operations running at a loss: costs (2,32,709.85) exceed revenue (1,26,990), net loss of 1,05,719.85.
 
-Costs are nearly double revenue, negative profit of -1,05,719.85.
+## **🔍 Insights**
+➢ Majority patients are Promoters, but Passives & Detractors exist.
 
-Discounts are the major cost (74.9%).
+➢ Employee Efficiency is the top driver of satisfaction.
 
-Payment processing fees (12.8%) and delivery fees (12.3%) make up the remaining ~25%.
+➢ Patient Relationship Practices (empathy, trust, communication) strongly impact loyalty.
 
-Profit distribution skewed towards losses; average profit per order is -200 (unprofitable).
+➢ Consultation got highest positive ratings (strength).
 
-Simulation with 30% commission and 6% discount shifts profitability towards positive values.
+➢ Reception & Appointment had mixed ratings → inefficiencies exist.
 
-Recommended rates could increase profitable orders and improve financial health.
+➢ Parking & Facilities are major pain points.
+
+➢ Labs & Radiology need better wait-time management.
+
+➢ Detractors are linked to negative reception & facilities experience.
+
+➢ Passives are “okay but not great” → potential to convert into Promoters
